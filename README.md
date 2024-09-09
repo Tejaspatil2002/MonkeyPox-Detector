@@ -1,1 +1,1 @@
-# MonkeyPox-Detector
+# "Monkeypox Diagnosis with Interpretable Deep Learning" 
